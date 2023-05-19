@@ -1,3 +1,6 @@
+This is the web page I built as part of my application to be accepted onto the School of Code Bootcamp14.  The instrucions we received are below and the HTML and CSS files are what I created after/during teaching myself via Freecodecamp.
+
+
 # README - Learning Journey step 7
 
 ## 7.2 - Your Tribute Page
